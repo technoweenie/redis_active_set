@@ -60,6 +60,8 @@ Gem::Specification.new do |s|
   # = MANIFEST =
   s.files = %w[
     README.md
+    Rakefile
+    active_set.gemspec
     lib/active_set.rb
     test/active_test.rb
   ]
